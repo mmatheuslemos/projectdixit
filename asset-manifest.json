@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ee415000.css",
+    "main.js": "./static/js/main.615a2e56.js",
+    "static/media/imagefundo.jpg": "./static/media/imagefundo.3671695119ec8232cdd3.jpg",
+    "static/media/Dixit-Logo.png": "./static/media/Dixit-Logo.5092b4049bdd169eee40.png",
+    "static/media/coelhoazul.png": "./static/media/coelhoazul.f7f5b69e188edb8c6738.png",
+    "static/media/userimage.png": "./static/media/userimage.72ac10a5dd620effbc65.png",
+    "static/media/grass.png": "./static/media/grass.67a3fda53fd0a4f5aea4.png",
+    "static/media/clickaudio.mp3": "./static/media/clickaudio.f2124630f835094cb589.mp3",
+    "index.html": "./index.html",
+    "main.ee415000.css.map": "./static/css/main.ee415000.css.map",
+    "main.615a2e56.js.map": "./static/js/main.615a2e56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee415000.css",
+    "static/js/main.615a2e56.js"
+  ]
+}
